@@ -1,4 +1,4 @@
-# Soft-Engineering-CS673
+# Soft-Engineering-CS673 assignment1
 
 2.Write a program that prints ‘Hello World’ to the screen.
 
